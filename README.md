@@ -3,6 +3,8 @@
 
 I was brought up with Basic, Assembly, C and C++ languages. After working with Delphi for companies, I specialized in C#. My main aptitude is the object code, and the conceptualization of the data and its processing. Programming is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, to learn and to achieve.
 
+I study the Hebrew Torah since january, 2004 and I write software and book since 2011 about what I learn.
+
 • [LinkedIn Profile](https://linkedin.com/in/ordisoftware)<br>
 • [StackOverflow Story](https://stackoverflow.com/users/story/12031933)
 
