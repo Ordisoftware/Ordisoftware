@@ -5,7 +5,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 I have been physically disabled since April 2004.
 
-I was born in 1973 and I study the Hebrew Torah since january 2004, thus I write software and books since 2011 about what I learn.
+I was born in 1973 and I study the Hebrew Torah since January 2004, thus I write software and books since 2011 about what I learn.
 
 • [LinkedIn Profile](https://linkedin.com/in/ordisoftware)<br>
 • [StackOverflow Story](https://stackoverflow.com/users/story/12031933)
