@@ -7,6 +7,7 @@ I'm deaf and hard of hearing since 1984. I have been physically disabled since A
 
 • [LinkedIn Profile](https://linkedin.com/in/ordisoftware)<br>
 • [StackOverflow Story](https://stackoverflow.com/users/story/12031933)
+• [YouTube Channel](https://www.youtube.com/user/Ordisoftware)
 
 <!--
 **Ordisoftware/Ordisoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
