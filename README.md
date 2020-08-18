@@ -3,8 +3,6 @@
 
 I was brought up with Basic, Assembly, C and C++ languages. After working with Delphi for companies, I specialized in C#. My main aptitude is the object code and the conceptualization of the data and its processing. Programming is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, to learn and to achieve.
 
-I was born in 1973. I'm partially deaf and hard of hearing since 1984. I am thus became neuroatypical. I study the physical and biological sciences since 1992 as well as the Hebrew Torah since January 2004. I am physically disabled since April 2004. I write software and books since 2011 about what I'm learning.
-
 • [Ordisoftware.com](https://www.ordisoftware.com)<br>
 • [LinkedIn Profile](https://linkedin.com/in/ordisoftware)<br>
 • [StackOverflow Story](https://stackoverflow.com/users/story/12031933)<br>
