@@ -14,9 +14,9 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 |Stats<sup>*</sup>|10.2012 – 12.2020|||Total|
 |-|-:|-|-|-:|
 |Time spent|972 hours||Size of projects|170 MiB|
-|Hours per month|10||Calendar|656h|
-|Number of files|276||Letters|91h|
-|Size of files|1.25 MiB||Words|225h|
+|Hours per month|10||Calendar|656 hours|
+|Number of files|276||Letters|91 hours|
+|Size of files|1.25 MiB||Words|225 hours|
 |Number of lines|36700||||
 |Lines of code|25130||||
 |LOC per hour|26|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|||
