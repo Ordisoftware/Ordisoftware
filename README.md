@@ -8,7 +8,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 -----
 
-[![Hebrew Calendar](https://i2.wp.com/www.ordisoftware.com/uploads/2019/10/hebrew-calendar-viewmonth-fr-1.png?resize=185%2C130&ssl=1 "Hebrew Calendar")](https://github.com/Ordisoftware/Hebrew-Calendar)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Letters](https://i2.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-letters-analyse-fr.png?resize=124%2C130&ssl=1 "Hebrew Letters")](https://github.com/Ordisoftware/Hebrew-Letters)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Words](https://i1.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-words-verses-fr.png?resize=165%2C130&ssl=1 "Hebrew Words")](https://github.com/Ordisoftware/Hebrew-Words)
+[![Hebrew Calendar](https://i2.wp.com/www.ordisoftware.com/uploads/2019/10/hebrew-calendar-viewmonth-fr-1.png?resize=204%2C140&ssl=1 "Hebrew Calendar")](https://github.com/Ordisoftware/Hebrew-Calendar)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Letters](https://i2.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-letters-analyse-fr.png?resize=133%2C140&ssl=1 "Hebrew Letters")](https://github.com/Ordisoftware/Hebrew-Letters)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Words](https://i1.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-words-verses-fr.png?resize=180%2C140&ssl=1 "Hebrew Words")](https://github.com/Ordisoftware/Hebrew-Words)
 
 |Stats<sup>*</sup>|10.2012 – 12.2020|||Total|
 |-|-:|-|-|-:|
