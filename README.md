@@ -5,7 +5,7 @@
 • [LinkedIn Profile](https://linkedin.com/in/ordisoftware)\
 • [StackOverflow Story](https://stackoverflow.com/users/story/12031933)
 
-I was brought up with Basic, Assembly, C and C++ languages. After working with Delphi for companies, I specialized in C#. My main aptitude is the object code and the conceptualization of the data and its processing. Programming is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, to learn and to achieve.
+<div style="text-align: justify">I was brought up with Basic, Assembly, C and C++ languages. After working with Delphi for companies, I specialized in C#. My main aptitude is the object code and the conceptualization of the data and its processing. Programming is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, to learn and to achieve.</div>
 
 <h2>Software to study and translate the Torah and the Hebrew Bible</h2>
 
