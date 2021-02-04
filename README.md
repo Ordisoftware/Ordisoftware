@@ -17,11 +17,11 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 |Stats<sup>*</sup>|10.2012 – 12.2020|||Total|
 |-|-:|-|-|-:|
-|Time spent|972 hours||Calendar|656 hours|
-|Hours per month|10||Letters|91 hours|
-|Number of files|276||Words|225 hours|
-|Size of files|1.25 MiB||Size of projects|170 MiB|
-|Number of lines|36700||||
+|Time spent|972 hours||Full-time equivalent|6 months|
+|Hours per month|10||Calendar|656 hours|
+|Number of files|276||Letters|91 hours|
+|Size of files|1.25 MiB||Words|225 hours|
+|Number of lines|36700||Size of projects|170 MiB|
 |Lines of code|25130||||
 |LOC per hour|26|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|||
 
