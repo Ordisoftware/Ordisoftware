@@ -9,9 +9,9 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 <h2>Software to study and translate the Torah and the Hebrew Bible</h2>
 
-- [Hebrew Calendar](https://github.com/Ordisoftware/Hebrew-Calendar) : generate a hebrew lunisolar calendar with shabbat and celebrations reminder.
-- [Hebrew Letters](https://github.com/Ordisoftware/Hebrew-Letters) : lettriq letter-by-letter study and analysis of hebrew words.
-- [Hebrew Words](https://github.com/Ordisoftware/Hebrew-Words) : literal word-for-word translator of the Hebrew Torah and Bible verses.
+- [Hebrew Calendar](https://github.com/Ordisoftware/Hebrew-Calendar) : Hebrew lunisolar calendar generator with shabbat and celebrations reminder.
+- [Hebrew Letters](https://github.com/Ordisoftware/Hebrew-Letters) : Lettriq letter-by-letter analyzer of Hebrew words.
+- [Hebrew Words](https://github.com/Ordisoftware/Hebrew-Words) : Literal word-for-word translator of the Torah and Hebrew Bible.
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Calendar](https://i2.wp.com/www.ordisoftware.com/uploads/2019/10/hebrew-calendar-viewmonth-fr-1.png?resize=204%2C140&ssl=1 "Hebrew Calendar")](https://github.com/Ordisoftware/Hebrew-Calendar)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Letters](https://i2.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-letters-analyse-fr.png?resize=133%2C140&ssl=1 "Hebrew Letters")](https://github.com/Ordisoftware/Hebrew-Letters)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Words](https://i1.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-words-verses-fr.png?resize=180%2C140&ssl=1 "Hebrew Words")](https://github.com/Ordisoftware/Hebrew-Words)
 
