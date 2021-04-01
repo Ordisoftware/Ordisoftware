@@ -9,7 +9,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 <h2>Software to study and translate the Torah and the Hebrew Bible</h2>
 
-- [Hebrew Calendar](https://github.com/Ordisoftware/Hebrew-Calendar) : Hebrew lunisolar calendar generator with shabbat and celebrations reminder.
+- [Hebrew Calendar](https://github.com/Ordisoftware/Hebrew-Calendar) : Lunisolar calendar generator with shabbat and celebrations reminder.
 - [Hebrew Letters](https://github.com/Ordisoftware/Hebrew-Letters) : Lettriq letter-by-letter analyzer of Hebrew words.
 - [Hebrew Words](https://github.com/Ordisoftware/Hebrew-Words) : Literal word-for-word translator of the Torah and Hebrew Bible.
 
