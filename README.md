@@ -15,7 +15,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Calendar](https://i2.wp.com/www.ordisoftware.com/uploads/2019/10/hebrew-calendar-viewmonth-fr-1.png?resize=204%2C140&ssl=1 "Hebrew Calendar")](https://github.com/Ordisoftware/Hebrew-Calendar)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Letters](https://i2.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-letters-analyse-fr.png?resize=133%2C140&ssl=1 "Hebrew Letters")](https://github.com/Ordisoftware/Hebrew-Letters)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hebrew Words](https://i1.wp.com/www.ordisoftware.com/uploads/2019/09/hebrew-words-verses-fr.png?resize=180%2C140&ssl=1 "Hebrew Words")](https://github.com/Ordisoftware/Hebrew-Words)
 
-|Stats<sup>*</sup>|10.2012 – 02.2021||||
+|Stats<sup>*</sup>|10.2012 – 05.2021||||
 |-|-:|-|-|-:|
 |Time spent|1290 hours||Full-time equivalent|7.5 months|
 |Hours per month|12.5||Calendar|847** hours|
