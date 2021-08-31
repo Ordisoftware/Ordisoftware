@@ -8,6 +8,7 @@ I was brought up with Basic, Assembly, C and C++ languages. My main aptitude is 
 #### Social networks
 
 • [LinkedIn Profile](https://linkedin.com/in/ordisoftware)\
+• [pluralsight Skills IQs](https://app.pluralsightcom/profile/ordisoftware)\
 • [YouTube Channel](https://www.youtube.com/user/Ordisoftware)\
 • [BandCamp Page](https://ordisoftware.bandcamp.com)
 
