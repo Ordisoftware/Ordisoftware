@@ -3,7 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
 [![Pluralsight](https://img.shields.io/badge/pluralsight-DA3050?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
 [![YouTube](https://img.shields.io/badge/ordisoftware-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/Ordisoftware)&nbsp;
-[![BandCamp](https://img.shields.io/badge/bandcamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;
+[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-918750883)&nbsp;
+[![BandCamp](https://img.shields.io/badge/bandcamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;<br/>
+[![Softpedia](https://img.shields.io/badge/-softpedia-002873?logo=Softpedia&logoColor=white)](https://www.softpedia.com/publisher/Olivier-Rogier-104580.html)&nbsp;
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Ordisoftware/Hebrew-Calendar/)](https://archive.softwareheritage.org/browse/search/?q=Ordisoftware)&nbsp;
 
 ## Who am I?
 
