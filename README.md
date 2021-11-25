@@ -1,11 +1,11 @@
-[![Ordisoftware.com](https://img.shields.io/badge/-ordisoftware.com-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/ordisoftware-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ordisoftware)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
-[![Pluralsight](https://img.shields.io/badge/pluralsight-DA3050?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
-[![YouTube](https://img.shields.io/badge/ordisoftware-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/Ordisoftware)&nbsp;
-[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-918750883)&nbsp;
-[![BandCamp](https://img.shields.io/badge/bandcamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;<br/>
-[![Softpedia](https://img.shields.io/badge/-softpedia-405075?logo=Softpedia&logoColor=white)](https://www.softpedia.com/publisher/Olivier-Rogier-104580.html)&nbsp;
+[![Ordisoftware.com](https://img.shields.io/badge/-Ordisoftware.com-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ordisoftware)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
+[![Pluralsight](https://img.shields.io/badge/PluralSight-DA3050?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/Ordisoftware)&nbsp;
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-918750883)&nbsp;
+[![BandCamp](https://img.shields.io/badge/BandCamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;<br/>
+[![Softpedia](https://img.shields.io/badge/-Softpedia-405075?logo=Softpedia&logoColor=white)](https://www.softpedia.com/publisher/Olivier-Rogier-104580.html)&nbsp;
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Ordisoftware/Hebrew-Calendar/)](https://archive.softwareheritage.org/browse/search/?q=Ordisoftware)&nbsp;
 
 ## Who am I?
