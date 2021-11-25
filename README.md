@@ -5,7 +5,7 @@
 
 I was brought up with Basic, Assembly, C and C++ languages. After working with Delphi for companies, I specialized in C#. My main aptitude is the object code and the conceptualization of the data and its processing. Programming is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, to learn and to achieve.
 
-![Twitter](https://img.shields.io/badge/ordisoftware-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
+[![Twitter](https://img.shields.io/badge/ordisoftware-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
 [![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
 [![YouTube](https://img.shields.io/badge/ordisoftware-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/Ordisoftware)&nbsp;
