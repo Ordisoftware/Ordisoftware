@@ -8,7 +8,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 [![Ordisoftware.com](https://img.shields.io/badge/-ordisoftware.com-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/ordisoftware-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
-[![Pluralsight](https://img.shields.io/badge/pluralsight-EE3057?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
+[![Pluralsight](https://img.shields.io/badge/pluralsight-DA3050?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
 [![YouTube](https://img.shields.io/badge/ordisoftware-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/Ordisoftware)&nbsp;
 [![BandCamp](https://img.shields.io/badge/bandcamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;
 
