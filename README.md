@@ -5,7 +5,7 @@
 [![YouTube](https://img.shields.io/badge/ordisoftware-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/Ordisoftware)&nbsp;
 [![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-918750883)&nbsp;
 [![BandCamp](https://img.shields.io/badge/bandcamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;<br/>
-[![Softpedia](https://img.shields.io/badge/-softpedia-002873?logo=Softpedia&logoColor=white)](https://www.softpedia.com/publisher/Olivier-Rogier-104580.html)&nbsp;
+[![Softpedia](https://img.shields.io/badge/-softpedia-405075?logo=Softpedia&logoColor=white)](https://www.softpedia.com/publisher/Olivier-Rogier-104580.html)&nbsp;
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Ordisoftware/Hebrew-Calendar/)](https://archive.softwareheritage.org/browse/search/?q=Ordisoftware)&nbsp;
 
 ## Who am I?
