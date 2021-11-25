@@ -31,7 +31,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 |Hours per month|13||Calendar|964** hours|
 |Number of files|364||Letters|216 hours|
 |Size of files|1.67 MiB||Words|244 hours|
-|Number of lines|48740||Size of projects|241*** MiB|
+|Number of lines|48740||Size of projects|650*** MiB|
 |Lines of code|33730||||
 |LOC per hour|24|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|||
 
