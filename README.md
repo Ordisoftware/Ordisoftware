@@ -6,6 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/Ordisoftware)&nbsp;
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-918750883)&nbsp;
 [![BandCamp](https://img.shields.io/badge/BandCamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;
+[![SWH](https://www.ordisoftware.com/wp-content/theming/social/badge-software-heritage.png)](https://archive.softwareheritage.org/browse/search/?q=Ordisoftware)&nbsp;
 
 ## Who am I?
 
