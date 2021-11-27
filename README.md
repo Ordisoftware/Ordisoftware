@@ -15,6 +15,8 @@
 
 I was brought up with Basic, Assembly, C and C++ languages. After working with Delphi for companies, I specialized in C#. My main aptitude is the object code and the conceptualization of the data and its processing. Programming is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, to learn and to achieve.
 
+[![Manufacturing Software Guidelines](https://img.shields.io/badge/-Manufacturing%20Software%20Guidelines-355F90?logo=MicrosoftWord&logoColor=white)](https://github.com/Ordisoftware/Guidelines)&nbsp;
+
 ## Software to study and translate the Torah and the Hebrew Bible
 
 - [Hebrew Calendar](https://github.com/Ordisoftware/Hebrew-Calendar) : Lunisolar calendar generator with shabbat and celebrations reminder.
