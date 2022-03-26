@@ -31,7 +31,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 |Stats<sup>*</sup>|10.2012 – 12.2021||||
 |-|-:|-|-|-:|
-|Time spent|1575 hours||Full-time equivalent|9,5 months|
+|Time spent|1575 hours||Full-time equivalent|9.5 months|
 |Hours per month|14||Calendar|971 hours<sup>**</sup>|
 |Number of files|382||Letters|216 hours|
 |Size of files|1.81 MiB||Words|388 hours|
