@@ -29,7 +29,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 #### _Coding statistics_
 
-|Stats<sup>*</sup>|10.2012 – 12.2021||||
+|Stats<sup>*</sup>10.2012 – 12.2021||||
 |-|-:|-|-|-:|
 |Time spent|1575 hours||Full-time equivalent|9,5 months|
 |Hours per month|14||Calendar|971 hours<sup>**</sup>|
@@ -45,7 +45,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 #### _Coding metrics_
 
-|Namespaces 2022.03.25|Maintainability|Complexity|Inheritance|Coupling|LOC|
+|Namespaces 2022.03.25<sup>*</sup>|Maintainability|Complexity|Inheritance|Coupling|LOC|
 |-|-:|-:|-:|-:|-:|
 |Core|82|2331|7|525|17431|
 |Hebrew|82|515|7|215|5995|
@@ -54,4 +54,4 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 |Hebrew.Words|74|2013|7|404|17891|
 
 
-<sup><i>A detailled Excel file exported from Visual Studio is [available here](https://github.com/Ordisoftware/Updates/blob/main/OrdisoftwareMetrics.xlsx?raw=true)</i></sup>
+<sup><i>* A detailled Excel file exported from Visual Studio is [available here](https://github.com/Ordisoftware/Updates/blob/main/OrdisoftwareMetrics.xlsx?raw=true)</i></sup>
