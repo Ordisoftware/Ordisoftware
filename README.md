@@ -45,8 +45,6 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 #### _Coding metrics_
 
-A detailled Excel file exported from Visual Studio is [available here](https://github.com/Ordisoftware/Updates/blob/main/OrdisoftwareMetrics.xlsx?raw=true)
-
 |Namespaces 2022.03.25|Maintainability|Complexity|Inheritance|Coupling|LOC|
 |-|-:|-:|-:|-:|-:|
 |Core|82|2331|7|525|17431|
@@ -54,3 +52,6 @@ A detailled Excel file exported from Visual Studio is [available here](https://g
 |Hebrew.Calendar|76|2869|7|463|27186|
 |Hebrew.Letters|70|706|7|294|8252|
 |Hebrew.Words|74|2013|7|404|17891|
+
+
+<sup><i>A detailled Excel file exported from Visual Studio is [available here](https://github.com/Ordisoftware/Updates/blob/main/OrdisoftwareMetrics.xlsx?raw=true)</i></sup>
