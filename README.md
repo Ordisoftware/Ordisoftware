@@ -47,20 +47,10 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 A detailled Excel file exported from Visual Studio is [available here](https://github.com/Ordisoftware/Updates/blob/main/OrdisoftwareMetrics.xlsx?raw=true)
 
-|Calendar 2022.03.25|Maintainability|Complexity|Inheritance|Coupling|LOC|
-|-|-:|-:|-:|-:|-:|
-|Core|83|2280|7|519|17087|
-|Hebrew|82|515|7|215|5995|
-|Hebrew.Calendar|76|2869|7|463|27186|
-
-|Letters 2022.03.25|Maintainability|Complexity|Inheritance|Coupling|LOC|
+|Namespaces 2022.03.25|Maintainability|Complexity|Inheritance|Coupling|LOC|
 |-|-:|-:|-:|-:|-:|
 |Core|82|2331|7|525|17431|
-|Hebrew|84|404|7|139|4721|
+|Hebrew|82|515|7|215|5995|
+|Hebrew.Calendar|76|2869|7|463|27186|
 |Hebrew.Letters|70|706|7|294|8252|
-
-|Words 2022.03.25|Maintainability|Complexity|Inheritance|Coupling|LOC|
-|-|-:|-:|-:|-:|-:|
-|Core|83|2280|7|519|17087|
-|Hebrew|82|512|7|211|5954|
 |Hebrew.Words|74|2013|7|404|17891|
