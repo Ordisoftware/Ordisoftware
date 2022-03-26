@@ -45,7 +45,7 @@ I was brought up with Basic, Assembly, C and C++ languages. After working with D
 
 #### _Coding metrics_
 
-A detailled Excel file exported from Visual Studio is [available here](https://github.com/Ordisoftware/Updates/blob/main/OrdisoftwareMetrics.xlsxraw=true)
+A detailled Excel file exported from Visual Studio is [available here](https://github.com/Ordisoftware/Updates/blob/main/OrdisoftwareMetrics.xlsx?raw=true)
 
 |Calendar 2022.03.25|Maintainability|Complexity|Inheritance|Coupling|LOC|
 |-|-:|-:|-:|-:|-:|
