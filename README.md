@@ -1,5 +1,5 @@
 [![Ordisoftware.com](https://img.shields.io/badge/-Ordisoftware.com-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ordisoftware)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/ordisoftware](https://x.com/ordisoftware))&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
 [![Pluralsight](https://img.shields.io/badge/PluralSight-DA3050?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
 [![Softpedia](https://img.shields.io/badge/-Softpedia-405075?logo=Stripe&logoColor=white)](https://www.softpedia.com/publisher/Olivier-Rogier-104580.html)&nbsp;
