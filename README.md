@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ordisoftware)&nbsp;
 [![Pluralsight](https://img.shields.io/badge/PluralSight-DA3050?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/ordisoftware)&nbsp;
 [![Softpedia](https://img.shields.io/badge/-Softpedia-405075?logo=Stripe&logoColor=white)](https://www.softpedia.com/publisher/Olivier-Rogier-104580.html)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ordisoftware)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/ordisoftware)&nbsp;
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-918750883)&nbsp;
 [![BandCamp](https://img.shields.io/badge/BandCamp-1DA0C3?logo=bandcamp&logoColor=white)](https://ordisoftware.bandcamp.com)&nbsp;
 [![SWH](https://www.ordisoftware.com/wp-content/theming/social/badge-software-heritage.png)](https://archive.softwareheritage.org/browse/search/?q=Ordisoftware)&nbsp;
