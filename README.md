@@ -13,7 +13,7 @@
 • **Telecommute Analyst-Programmer: Agile creation of object-oriented applications**<br>
 • **C# Desktop Expert: Visual Studio, WinForms, Linq, ADO.NET, GitHub, WordPress**
 
-I was brought up on  Basic, Assembly, C and C++ since 1984. After working with Delphi for financial and medical companies from 1998 to 2003, I specialized in C#. My main aptitude is the object code and the conceptualization of the data and its processing. Programming is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, learn, design and create.
+I was brought up on  Basic, Assembly, C and C++ since 1984. After working with Delphi for financial and medical companies from 1998 to 2003, I specialized in C#. My main aptitude is the object code and the conceptualization of the data and its processing. Coding is a passion both as a job and as a leisure that one never tire of as there are so many things to discover, learn, design and create.
 
 [![Manufacturing Software Guidelines](https://img.shields.io/badge/-Manufacturing%20Software%20Guidelines-355F90?logo=MicrosoftWord&logoColor=white)](https://github.com/Ordisoftware/Guidelines)&nbsp;
 
